@@ -1,8 +1,6 @@
 #  Metasploitable-2 Walkthrough
 
-This repository contains walkthrough for exploiting various services on Metasploitable-2, a vulnerable Linux VM used for penetration testing practice.
-
----
+This repository contains simple walkthroughs using commands to exploit different services running on Metasploitable-2, a vulnerable Linux VM for penetration testing practice.
 
 ## 🔍 Nmap Scan Output
 
